@@ -1,0 +1,22 @@
+.firstpart {
+  background-image: url("../images/backphoto.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 70vh;
+}
+
+.secondpart {
+  width: 100%;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+@media only screen and (max-width: 391px) {
+  body {
+    overflow-x: hidden;
+  }
+}/*# sourceMappingURL=style.css.map */

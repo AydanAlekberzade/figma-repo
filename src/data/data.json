@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "title": "Brave New World",
+      "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersafari.com%2Fiphone-movies-wallpapers%2F&psig=AOvVaw2CuujK9ziQCtz6sWHEXkOA&ust=1690453223208000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLi455CTrIADFQAAAAAdAAAAABAJ",
+      "director": "Michael Zembev",
+      "year": 2021
+    },
+    {
+      "id": 2,
+      "title": "Vanguard",
+      "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersafari.com%2Fiphone-movies-wallpapers%2F&psig=AOvVaw2CuujK9ziQCtz6sWHEXkOA&ust=1690453223208000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLi455CTrIADFQAAAAAdAAAAABAJ",
+      "director": "Karlos Cetsa",
+      "year": 2022
+    },
+    {
+      "id": 3,
+      "title": "Bad Times At The Royale",
+      "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersafari.com%2Fiphone-movies-wallpapers%2F&psig=AOvVaw2CuujK9ziQCtz6sWHEXkOA&ust=1690453223208000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLi455CTrIADFQAAAAAdAAAAABAJ",
+      "director": "Michael Zembev",
+      "year": 2020
+    },
+    {
+      "id": 4,
+      "title": "John Wick 3 Parabellum",
+      "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersafari.com%2Fiphone-movies-wallpapers%2F&psig=AOvVaw2CuujK9ziQCtz6sWHEXkOA&ust=1690453223208000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLi455CTrIADFQAAAAAdAAAAABAJ",
+      "director": "Karlos Cetsa",
+      "year": 2019
+    },
+    
+        {
+          "id": 5,
+          "title": "The Witcher",
+          "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersafari.com%2Fiphone-movies-wallpapers%2F&psig=AOvVaw2CuujK9ziQCtz6sWHEXkOA&ust=1690453223208000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLi455CTrIADFQAAAAAdAAAAABAJ",
+          "director": "Michael Zembev",
+          "year": 2021
+        },
+        {
+          "id": 6,
+          "title": "The Queen's Gambit",
+          "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersafari.com%2Fiphone-movies-wallpapers%2F&psig=AOvVaw2CuujK9ziQCtz6sWHEXkOA&ust=1690453223208000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLi455CTrIADFQAAAAAdAAAAABAJ",
+          "director": "John Retrevi",
+          "year": 2022
+        },
+        {
+          "id": 7,
+          "title": "The Dark Knight",
+          "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersafari.com%2Fiphone-movies-wallpapers%2F&psig=AOvVaw2CuujK9ziQCtz6sWHEXkOA&ust=1690453223208000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLi455CTrIADFQAAAAAdAAAAABAJ",
+          "director": "Michael Zembev",
+          "year": 2020
+        },
+        {
+          "id": 8,
+          "title": "No Time To Day",
+          "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersafari.com%2Fiphone-movies-wallpapers%2F&psig=AOvVaw2CuujK9ziQCtz6sWHEXkOA&ust=1690453223208000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLi455CTrIADFQAAAAAdAAAAABAJ",
+          "director": "John Retrevi",
+          "year": 2019
+        }
+      
+      
+   
+  ]
+  
